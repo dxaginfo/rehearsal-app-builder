@@ -1,0 +1,1 @@
+React front-end for Rehearsal Scheduler web app
